@@ -1,11 +1,11 @@
-# Registration Activity Camp 4 Dashboard
+# Customer Service Activity Dashboard
 This repository contains the Power BI visualization for the Registration Activity Camp 4, focusing on registration activities related to RAD (Registration and Data) processing for the period on and after May 12, 2025.
 
 # Overview
 The dashboard provides a visual representation of the following metrics:
 
-## Registration Activity Overview: 
-Displays total registration activity (RAD Total) for the site on a daily basis, including the number of registrations on specific dates.
+## Customer Service Activity Overview: 
+Displays total customer service activity (RAD Total) for the site on a daily basis, including the number of registrations on specific dates.
 
 ## Case Type & Worker Analysis: 
 Shows breakdowns by case types such as Family Composition, New Born, and ID Card issues, along with associated case workers.
@@ -17,7 +17,7 @@ Tracks how many times families approach RAD on specific days.
 Visualizes the distribution of cases by case type at different sites and CIC offices.
 
 # Features
-## Registration Activity Overview:
+## Customer Service Activity Overview:
 
 Displays the total number of registrations on a given day.
 
@@ -42,7 +42,7 @@ Displays the number of FCNs by case type at different CIC (Camp Information Cent
 Filters are provided for selecting the case type, CIC office, scheduled date, and case worker.
 
 # Dataset
-This visualization is based on real-time registration data that is being tracked for Registration Processing processing at the Camp 4 site. The dataset includes the following dimensions:
+This visualization is based on real-time customer service activity data that is being tracked for service Processing processing at the Camp 4 site. The dataset includes the following dimensions:
 
 Case Types
 
