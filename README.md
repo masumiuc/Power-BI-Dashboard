@@ -1,6 +1,7 @@
 # Customer Service Activity Dashboard
 This repository contains the Power BI visualization for the Registration Activity Camp 4, focusing on registration activities related to RAD (Registration and Data) processing for the period on and after May 12, 2025.
-<img src="https://github.com/user-attachments/assets/c376ac4f-ae17-40ee-a53e-39f80869cb10" width="500" />
+<img src="https://github.com/user-attachments/assets/acb09b0e-9dcc-446e-9859-c2e244222a58" width="500" />
+
 
 # Overview
 The dashboard provides a visual representation of the following metrics:
